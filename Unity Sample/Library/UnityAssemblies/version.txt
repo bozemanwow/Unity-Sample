@@ -1,0 +1,6 @@
+5.3.4f1:2.2.0.0
+StandaloneWindows
+C:/DFiles/GameDev/Editor/Data/Managed/UnityEngine.dll
+C:/DFiles/GameDev/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+C:/DFiles/GameDev/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+C:/DFiles/GameDev/Editor/Data/Managed/UnityEditor.dll
